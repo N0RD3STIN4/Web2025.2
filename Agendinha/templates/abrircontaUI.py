@@ -1,6 +1,8 @@
 import streamlit as st
 from views import View
 import time
+
+
 class AbrirContaUI:
     def main():
         st.header("Abrir Conta no Sistema")
